@@ -10,4 +10,12 @@ loads of financial data. For example, one can predict stock trends using the dat
 benefit from Data Science. 
 
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines branches, keeping both histories intact with a merge commit.
+Rebasing re-applies changes from one branch on top of another, creating a linear history without a merge commit.
+
+Merging preserves the branch structure; rebasing simplifies the history.
+
+
 
