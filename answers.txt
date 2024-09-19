@@ -17,5 +17,7 @@ Rebasing re-applies changes from one branch on top of another, creating a linear
 
 Merging preserves the branch structure; rebasing simplifies the history.
 
+Q4: What skills do you hope to improve during this course?
 
+Answer: My Python Skills and using Pandas. I als want to brush up my modelling skills. 
 
